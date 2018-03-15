@@ -15,7 +15,7 @@
 <br>💢¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي
 <br>
 
-`git clone https://github.com/alsaray/vertoken.git && cd vertoken && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
+`git clone https://github.com/s7don/BATSH3.git && cd BATSH3 && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
 
 
 
