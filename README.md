@@ -47,4 +47,4 @@
 
   [شكسبير  🎧™](https://telegram.me/alsaray) <br>
   [٠ツسعدون ال مشايخ ٠](https://telegram.me/llN00Xll) <br>
-  [αℓѕαяαу ωєв ™](https://alsaray1995.blogspot.com) ↜ موقعي الرسمي 
+  [s3DooNe ™](http://t.me/server_iq) ↜ موقعي الرسمي 
